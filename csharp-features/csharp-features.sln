@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionBodiedFunctionMem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStatic", "src\UsingStatic\UsingStatic.csproj", "{99F267B7-E6CB-4C48-B24A-9A20ADA81D49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullConditional", "src\NullConditional\NullConditional.csproj", "{66522A1B-F8E4-46D4-AA12-B0B90E09964A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{99F267B7-E6CB-4C48-B24A-9A20ADA81D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99F267B7-E6CB-4C48-B24A-9A20ADA81D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99F267B7-E6CB-4C48-B24A-9A20ADA81D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66522A1B-F8E4-46D4-AA12-B0B90E09964A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66522A1B-F8E4-46D4-AA12-B0B90E09964A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66522A1B-F8E4-46D4-AA12-B0B90E09964A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66522A1B-F8E4-46D4-AA12-B0B90E09964A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
