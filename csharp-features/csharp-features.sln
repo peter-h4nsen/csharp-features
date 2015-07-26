@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameOf", "src\NameOf\NameOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexInitializers", "src\IndexInitializers\IndexInitializers.csproj", "{A1F1260A-273E-4EFB-8CD0-F7E9144B0FA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionFilters", "src\ExceptionFilters\ExceptionFilters.csproj", "{93C79AC4-FD35-4987-8571-8378B60E6F34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A1F1260A-273E-4EFB-8CD0-F7E9144B0FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1F1260A-273E-4EFB-8CD0-F7E9144B0FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1F1260A-273E-4EFB-8CD0-F7E9144B0FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C79AC4-FD35-4987-8571-8378B60E6F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C79AC4-FD35-4987-8571-8378B60E6F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C79AC4-FD35-4987-8571-8378B60E6F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C79AC4-FD35-4987-8571-8378B60E6F34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
