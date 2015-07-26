@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullConditional", "src\Null
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "src\StringInterpolation\StringInterpolation.csproj", "{3DDCFC7A-4459-4AD8-A971-94EE6CA878A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameOf", "src\NameOf\NameOf.csproj", "{7D0EDE47-01E8-46F2-8B8E-0D9701DD9158}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3DDCFC7A-4459-4AD8-A971-94EE6CA878A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DDCFC7A-4459-4AD8-A971-94EE6CA878A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DDCFC7A-4459-4AD8-A971-94EE6CA878A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0EDE47-01E8-46F2-8B8E-0D9701DD9158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0EDE47-01E8-46F2-8B8E-0D9701DD9158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0EDE47-01E8-46F2-8B8E-0D9701DD9158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0EDE47-01E8-46F2-8B8E-0D9701DD9158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
